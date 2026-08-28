@@ -52,5 +52,3 @@ package/
 .claude/
 .mimocode/
 
-# 指导文件
-src/content/posts/example

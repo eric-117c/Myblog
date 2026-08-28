@@ -75,12 +75,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"Talk is cheap. Show me the code.",
+				"Simplicity is prerequisite for reliability.",
+				"Make it work, make it right, make it fast.",
+				"What I cannot create, I do not understand.",
+				"Code never lies, comments sometimes do.",
+				"The purpose of abstraction is not to be vague.",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
