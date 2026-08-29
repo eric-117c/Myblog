@@ -8,7 +8,7 @@ tags:
   - AI
   - "#hardware"
 category: 大模型扫盲
-draft: false
+draft: true
 author: 山吹
 comment: true
 date: 2026-08-29
