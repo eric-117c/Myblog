@@ -7,7 +7,7 @@ image: ""
 tags:
   - AI
   - "#hardware"
-category: ""
+category: 大模型扫盲
 draft: false
 author: 山吹
 comment: true
