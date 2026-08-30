@@ -1,5 +1,5 @@
 ---
-title: GPU 如何执行程序：Thread、Warp、Block 与 SM
+title: 1.2 GPU 如何执行程序：Thread、Warp、Block 与 SM
 published: 2026-08-30
 pinned: false
 description: 把 CUDA 的线程层级与 GPU 的物理结构对应起来，理解并行、分支发散和延迟隐藏。
@@ -169,3 +169,5 @@ CUDA 程序里，Kernel 启动一个 Grid，Grid 被分成多个 Block，Block �
 性能问题也从这套关系里长出来：同一 Warp 走不同分支会发散；寄存器或 Shared Memory 用得太多，会减少同时驻留的线程；占用率太低可能遮不住访存延迟，但占用率满了也不代表程序一定快。
 
 下一篇继续补上数据这半张图。线程开始计算以后，权重为什么不能一直直接从显存拿，L2、Shared Memory 和寄存器又各自在解决什么问题？
+
+[[03-显存与带宽]]
