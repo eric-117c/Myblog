@@ -179,4 +179,4 @@ GPU 空闲并不自动说明 GPU Kernel 有问题。数据加载太慢、小传�
 
 ---
 
-**Next Page：** [如何选择 AI 硬件：先算显存，再谈算力](<../06-如何选择AI硬件/>)
+**Next Page：** [如何选择 AI 硬件：先算显存，再谈算力](<../06-how-to-choose-ai-hardware/>)

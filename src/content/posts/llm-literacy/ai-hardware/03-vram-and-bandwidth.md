@@ -164,4 +164,4 @@ Roofline 模型把这件事压成了一个判断：算术强度低时更可能�
 
 ---
 
-**Next Page：** [Tensor Core 与数值精度：更少的位数为什么还能训练模型](<../04-Tensor-Core与数值精度/>)
+**Next Page：** [Tensor Core 与数值精度：更少的位数为什么还能训练模型](<../04-tensor-cores-and-numerical-precision/>)

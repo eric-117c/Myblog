@@ -7,7 +7,7 @@ tags:
  - 课程
  - 博客
 category: SE
-slug: 社会实践 —— 成都认识实习回顾
+slug: social-practice-chengdu-field-study-retrospective
 ---
 总体时间：2026.7.20 ---- 2026.7.24
 >[!IMPORTANT]
@@ -50,5 +50,4 @@ slug: 社会实践 —— 成都认识实习回顾
 计财处暑假不上班，预支的机票到现在也报销不到手。
 
  
-
 

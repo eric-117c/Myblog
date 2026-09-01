@@ -177,4 +177,4 @@ GPU 适合 AI，起点确实是矩阵乘法多、可以并行，但完整解释�
 
 ---
 
-**Next Page：** [GPU 如何执行程序：Thread、Warp、Block 与 SM](<../02-GPU如何执行程序/>)
+**Next Page：** [GPU 如何执行程序：Thread、Warp、Block 与 SM](<../02-how-gpus-execute-programs/>)

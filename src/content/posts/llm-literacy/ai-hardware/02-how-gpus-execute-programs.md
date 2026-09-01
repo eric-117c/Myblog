@@ -172,4 +172,4 @@ CUDA 程序里，Kernel 启动一个 Grid，Grid 被分成多个 Block，Block �
 
 ---
 
-**Next Page：** [显存与带宽：为什么“数据搬运”常比计算更重要](<../03-显存与带宽/>)
+**Next Page：** [显存与带宽：为什么“数据搬运”常比计算更重要](<../03-vram-and-bandwidth/>)

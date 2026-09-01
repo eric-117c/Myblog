@@ -237,4 +237,4 @@ flowchart TD
 
 ---
 
-**Next Page：** [返回 AI 扫盲计划](<../../AI扫盲计划/>)
+**Next Page：** [返回 AI 扫盲计划](<../../ai-literacy-plan/>)

@@ -170,4 +170,4 @@ Tensor Core 一类矩阵单元，则把小块矩阵乘加直接变成硬件擅�
 
 ---
 
-**Next Page：** [AI 计算机不只有 GPU：CPU、内存、PCIe 与多卡互联](<../05-AI计算机不只有GPU/>)
+**Next Page：** [AI 计算机不只有 GPU：CPU、内存、PCIe 与多卡互联](<../05-ai-computers-beyond-gpus/>)
