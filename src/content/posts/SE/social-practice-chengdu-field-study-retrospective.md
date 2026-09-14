@@ -4,9 +4,10 @@ published: 2026-07-26
 pinned: false
 description: 软工认识实习成都团回顾
 tags:
- - 课程
- - 博客
-category: SE
+ - 软件工程
+ - SE
+ - 社会实践
+category: 软件工程
 slug: social-practice-chengdu-field-study-retrospective
 ---
 总体时间：2026.7.20 ---- 2026.7.24
