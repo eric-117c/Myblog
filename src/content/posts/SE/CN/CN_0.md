@@ -72,7 +72,7 @@ The table below will show the layer's name and its duty
 - *Integrity*: prevent from surrepitious changes to messages
 
 ### 6 Labs of the course
->from TA's PPT
+- from TA's PPT
 ![2026-09-15 16-06-00.png](https://tu.shanchui.cc/file/blog/wenzhang/1789460066729_2026-09-15_16-06-00.png)
 ---
 HAPPY LEARNING, COMPUTER NETWORKS！
