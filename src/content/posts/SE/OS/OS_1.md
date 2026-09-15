@@ -8,7 +8,7 @@ tags:
   - SE
   - 软件工程
 category: 软件工程
-draft: true
+draft: false
 author: 山吹
 comment: true
 date: 2026-09-15
@@ -46,11 +46,31 @@ date: 2026-09-15
 #### Lab Projects
 (TO BE)
 ### How to learn
-- Learn with AI. They can **speed** your understanding but can't **replace** it.
-- A poem
+- 🤖Learn with AI. They can **speed** your understanding but can't **replace** it.
+- 🤔A poem 
 ```poem
 山近月远觉月小，便道此山大于月。
 若有人眼大如天，当见山高月更阔。
 By 王阳明
 ```
-- Theory & Practice
+- 👍Theory & Practice 
+- 🚀Find your interest point 
+
+### Chp.1
+#### Today
+- Overview
+- Structure
+- ..
+#### What is operating system?
+>Let's think about a crossroad.Why there is very less accident on road?
+  This is a problem of ***coordination with limited resource for efficient work***.
+  Driver is the user, the previlege to pass is resource,less time and accidents is preferred,
+  and **YOU** are OS.
+  
+- So,there is a metaphor.
+- OS is a program that acts as an **intermeditary** between a user of computer and the hardware.
+- OS is an **allocator** who manages all resources and a **controller** who prevent invalid use to the machine.
+#### ***bootstrap*** program
+Bootstrap is program loaded at power-up or reboot.
+It is typically strored in ROM.
+

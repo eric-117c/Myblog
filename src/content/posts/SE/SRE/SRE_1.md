@@ -1,5 +1,5 @@
 ---
-title: 软件需求工程 SS_1
+title: 软件需求工程 SRE_1
 published: 2026-09-14
 pinned: false
 description: 软件需求工程第一节课
