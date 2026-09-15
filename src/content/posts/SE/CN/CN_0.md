@@ -73,6 +73,6 @@ The table below will show the layer's name and its duty
 
 ### 6 Labs of the course
 from TA's PPT
-![[Pasted image 20260915160715.png]]
+![2026-09-15 16-06-00.png](https://tu.shanchui.cc/file/blog/wenzhang/1789460066729_2026-09-15_16-06-00.png)
 ---
-HAPPY LEARNING, computer networks
+HAPPY LEARNING, COMPUTER NETWORKS！
