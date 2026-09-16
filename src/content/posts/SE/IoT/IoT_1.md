@@ -29,7 +29,7 @@ date: 2026-09-16
 	- ![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789537507974_image.png)
 - **Trend**:
 	- ![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789537531355_image.png)
-	- ![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789537590386_image.png
+	- ![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789537590386_image.png)
 #### Application structure and Challenge
 -  A normal structure is like this
 ![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789537891633_image.png)
