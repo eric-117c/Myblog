@@ -1,5 +1,5 @@
 ---
-title: 计算机网络 SS_0
+title: 计算机网络 CN_0
 published: 2026-09-14
 pinned: false
 description: 计算机网络(自学)的开学前准备
@@ -75,4 +75,4 @@ The table below will show the layer's name and its duty
 - from TA's PPT
 ![2026-09-15 16-06-00.png](https://tu.shanchui.cc/file/blog/wenzhang/1789460066729_2026-09-15_16-06-00.png)
 ---
-HAPPY LEARNING, COMPUTER NETWORKS！
+ENJOY LEARNING IN COMPUTER NETWORKS！
