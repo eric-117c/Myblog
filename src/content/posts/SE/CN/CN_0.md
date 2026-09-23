@@ -1,78 +1,85 @@
 ---
-title: 计算机网络 CN_0
-published: 2026-09-14
+title: CN_0
+published: 2026-09-23
 pinned: false
-description: 计算机网络(自学)的开学前准备
+description: This is an introduction to computer networks
 image: ""
 tags:
-  - SE
   - CS
-  - 软件工程
-  - 网络
+  - SE
+  - 自学
 category: 软件工程
 draft: false
 author: 山吹
 comment: true
-date: 2026-09-15
+date: 2026-09-23
 ---
-### What is Computer Networks?
 
-![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1789357001889_image.png)
-- many devices  $\rightarrow$ distributed systems
-- talk to each other  $\rightarrow$ commmunication
-> computer networks focus on the communication of the distributed systems
+> [!NOTE]
+> 本系列是完全自学
+### Uses of Computer Neteorks
 
-#### Overview
+When Computer Tech is at a young age, the idea of a powerful big machine gathering, computing tasks was  deeply roored in everyone's mind.But days wounld change, nobody would expect many years later we are able to vastly produce those powerful machines in the stamp-size materials.
+
+The old model of **a single computer serving all** of the organization’s computational needs has been replaced by one in which **a large number of separate but interconnected computers** do the job. 
+
+These systems are called **computer networks**.
+
+Then, there is the Network's Age. Many small networks are connected into a bigger one, so-called **Internet**.
+
+#### Access to Information
+
+Much Information is accessed using **Client-Server Model**. It's widely used and form the basis of much network usage.
+
+
+![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1790132426602_image.png)
+
+Then, we dive into the model to see details. **Communication** happens on both sides, so we see two **processes** to our first approximation.
+
+![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1790132755222_image.png)
+
+Another model is **peer-to-peer** communication. A great example is **BitTorrent**.
+
+We do not have **a centralized database** in this model, instead, each user maintain **a local database of pieces of the content**.
+
+![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1790132981472_image.png)
+ 
+#### Person-to-person Communication
+
+> Person-to-person communication is the 21st century’s answer to the 19th century’s telephone.
+
+This kind of communication is devided into **Instant messaging** and **Twitter** services. Former focus on **one-to-one**, while the latter provides **multi-person** capabilities.
+
+Between person-to-person communications and accessing information are **social network applications**. For example, Facebook.
+
+More loosely, communication can take the form of co-created content,like **WIKI**.
+
+#### Other Usage
+
+- E-commerce
+
+![image.png](https://tu.shanchui.cc/file/blog/wenzhang/1790135242022_image.png)
+
+- Entertainment
+
+**IPTV**, **Eletronic Games**
+
+- IoT
+
+> **Ubiquitous computing** entails computing that is embedded in everyday life, as in the vision of Mark Weiser (1991).
+
+**IoT, Internet of Things**
+
+### Types of Computer Networks
 
 ```mermaid
-graph LR
-A[computer network communication] --> B[channel] --> I[wired/ wireless]
-A --> C[scope] --> J[single hop/ multi hop]
-A --> D[routes] --> K[single-path/ multi-path]
-A --> E[who to reach] --> L[unicast/ multicast/ broadcast]
-A --> F[data transmission] 
-A --> G[services] --> M[serach/ streaming/ messaging/ email/ storage/ payment]
-A --> H[security] --> N[overheard/ leaked/ ...]
-
+graph TD
+A[Computer Netowrks] --> B[Broadband Access Networks]
+A --> C[Mobile and Wireless Access Networks]
+A --> D[Content Provider Networks]
+A --> E[Transit Networks]
+A --> F[Enterprise Networks]
 ```
 
-#### Overview from another side
-![2026-09-14 11-59-07.png](https://tu.shanchui.cc/file/blog/wenzhang/1789358847534_2026-09-14_11-59-07.png)
-#### Recommend textbook
-![textbook.png](https://tu.shanchui.cc/file/blog/wenzhang/1789359179125_textbook.png)
+#### Broadband Access Network
 
-### Protocol Layering
-#### Protocol Definition
-- *Protocol*: an **aggreement** between the **comunicating parties** on how communication is to proceed
-- *Layer n protocol*: **rules** and **conventions** used in a conversation between layer n’s on **two machines**
-#### 5-Layer Network model (some concepts and terminology)
-![layer-protocol.png](https://tu.shanchui.cc/file/blog/wenzhang/1789359933673_layer-protocol.png)
-
-- *peers*: the **entities** comprising the corresponding **layers** on machine (software, hardware or even human beings)
-- *virtual communication*: no data are **directly transferred** from layer n on one machine to layer n on another machine, each layer passes data and control information to the layer immediately below it
-- *actual communication*: occurs through the **Physical medium** below layer 1
-- *interface*: defines which **primitive operations and services** the lower level makes **available** to the upper level
-- *protocol stack*: a list of protocols used by a certain system (**one protocol per layer**)
-
-#### 5-Layer Hybrid Model (used in refernece books)
-The table below will show the layer's name and its duty 
-
-| No. |    Layer    | Duty of the layer                                                                                                                                   |
-| :-: | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  |  Physical   | Transmit bits with **electrical or other analog signal**                                                                                            |
-|  2  |    Link     | send **fixed length** message between **directly** connected computers                                                                              |
-|  3  |   Network   | combine links into networks and networks of networks into internetworks facilitating **sending packets** between **indirectly** connceted computers |
-|  4  |  Transport  | strengthen the delivery **guarantees** of network layer (reliability and delivery abstraction etc.)                                                 |
-|  5  | Application | programs that make use of networks                                                                                                                  |
-
-### Cyber Security
-3 Principle to protect your device from cyber attck
-- *Confidentiality*: denfends against eavesdropping on communications
-- *Authentication*: prevent from imperonating someone else
-- *Integrity*: prevent from surrepitious changes to messages
-
-### 6 Labs of the course
-- from TA's PPT
-![2026-09-15 16-06-00.png](https://tu.shanchui.cc/file/blog/wenzhang/1789460066729_2026-09-15_16-06-00.png)
----
-ENJOY LEARNING IN COMPUTER NETWORKS！
