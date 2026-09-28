@@ -82,4 +82,42 @@ A --> F[Enterprise Networks]
 ```
 
 #### Broadband Access Network
+>[!NOTE]
+>**Metcalfe's Law** : the value of a network is proportional to the **square** of the number of users
 
+Today, Broadband access Network is **proliferating**.
+
+The mian media of Broadband Access  Network is as followed.
+
+| Texture       | Example        |
+| ------------- | -------------- |
+| copper        | telephone line |
+| coaxial cable | cable          |
+| optical fiber | optical fiber  |
+
+#### Mobile and Wireless Access Networks
+```mermaid
+graph LR
+A[Wireless Access Network] --> B[mobile uses]
+B --> D[personal uses]
+B --> E[Enterprise uses]
+A --> C[military uses]
+```
+- For personal uses
+	- **Cellular networks**, a wireless network operated by telephone companies
+	- **Wireless hotspots**, **802.11 Standard** 
+- For Enterprises uses
+	- run process of DiDi 
+	- boost "sharing economy", like Uber 
+- For military uses
+	- troops-owned network
+
+> [!IMPORTANT]
+> Wireless networking and mobile computing are often **related**, but **not identical**.
+
+| Wireless | Mobile | Typical applications                     |
+| -------- | ------ | ---------------------------------------- |
+| No       | No     | Desktop computers in offices             |
+| No       | Yes    | A laptop coputer used in a hotel room    |
+| Yes      | No     | Networks in unwired buildings            |
+| Yes      | Yes    | Store inventory with a handheld computer |
