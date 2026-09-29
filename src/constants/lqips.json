@@ -32,5 +32,16 @@
   "src:content/posts/images/both-list.avif": "e5e7e4e6e8e7e3e3e5",
   "src:content/posts/images/both-grid.avif": "d5d6d3e6e7e3d8d9e3",
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
-  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5"
+  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
+  "public:assets/images/posts/os/os-3/context-switch.png": "e1e7ebe8eceef1efef",
+  "public:assets/images/posts/os/os-3/ipc-models.png": "dde7eee7eef3e9eaed",
+  "public:assets/images/posts/os/os-3/medium-term-scheduling.png": "e0e4e8ebeceeefefef",
+  "public:assets/images/posts/os/os-3/process-creation.png": "e6ebeff2f3f5f2f4f6",
+  "public:assets/images/posts/os/os-3/process-memory.png": "dde3e9e7eaeae2e4e4",
+  "public:assets/images/posts/os/os-3/process-state.png": "e2e8ecedf0f2eff1f2",
+  "public:assets/images/posts/os/os-3/rmi-marshalling.png": "d6e5eddbe9f0dee6ea",
+  "public:assets/images/posts/os/os-3/rpc-execution.png": "e3e7ebf1f2f4ebedef",
+  "public:assets/images/posts/os/os-3/scheduling-queues.png": "e1e5e9eaeceeebecec",
+  "public:assets/images/posts/os/os-3/socket-communication.png": "e1e9eef3f5f7ebf2f4",
+  "public:assets/images/posts/os/os-3/sports-meet-model.png": "e1e7eedadff3e6c2ca"
 }
