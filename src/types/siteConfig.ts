@@ -131,6 +131,14 @@ export type SiteConfig = {
 		rehypeCallouts: {
 			theme: "github" | "obsidian" | "vitepress" | "docusaurus";
 			enablePythonMarkdownAdmonitions?: boolean;
+			// 自定义提醒框类型，键名大小写不敏感
+			callouts?: Record<
+				string,
+				{
+					title?: string;
+					indicator?: string;
+				}
+			>;
 		};
 		// 控制"上次编辑时间"卡片显示的开关
 		showLastModified: boolean;

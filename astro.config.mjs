@@ -277,7 +277,13 @@ export default defineConfig({
 			],
 			rehypePlugins: [
 				[rehypeKatex, { katex }],
-				[rehypeCallouts, { theme: siteConfig.post.rehypeCallouts.theme }],
+				[
+					rehypeCallouts,
+					{
+						theme: siteConfig.post.rehypeCallouts.theme,
+						callouts: siteConfig.post.rehypeCallouts.callouts,
+					},
+				],
 				rehypeSlug,
 				[rehypeMermaid, mermaidConfig],
 				rehypePlantuml,
